@@ -1,4 +1,4 @@
-# 😈 Data Augmentation
+# Data Augmentation
 - aistudio notion page : https://www.notion.so/aistudio/Augmentation-7136628827734bbcb27566718b4e897e
 - last updated on 2022-07-26
 
